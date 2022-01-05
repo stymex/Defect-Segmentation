@@ -1,1 +1,1 @@
-Defect Segmentation project by Tym and Daph
+Defect Segmentation project
