@@ -3,8 +3,7 @@
 """
 Created on Mon Dec 27 13:35:38 2021
 
-@author: tymek
-
+@author: stymex
 
 """
 import sys

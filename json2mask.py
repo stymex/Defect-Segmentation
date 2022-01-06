@@ -3,7 +3,7 @@
 """
 Created on Wed Dec  1 18:11:29 2021
 
-@author: Tymoteusz Świstek 2020280355
+@author: stymex
 """
 import numpy as np
 import json

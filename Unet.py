@@ -3,7 +3,7 @@
 """
 Created on Wed Dec 22 13:25:39 2021
 
-@author: Tymoteusz Świstek 2020280355
+@author: stymex
 """
 import sys
 import glob

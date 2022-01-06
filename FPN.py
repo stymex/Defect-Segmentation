@@ -3,7 +3,7 @@
 """
 Created on Mon Dec 27 13:05:49 2021
 
-@author: tymek
+@author: stymex
 """
 import sys
 import glob
