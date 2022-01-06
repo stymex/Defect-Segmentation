@@ -24,4 +24,8 @@ Train the network on default parameters, signing into Wandb will be necessary fo
 ```
 python Unet.py
 ```
+To train the model without wandb integration run
+```
+python UNet-noWandb.py
+```
 
