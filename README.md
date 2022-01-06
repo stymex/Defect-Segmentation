@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 create necessary folders
 ```
-mkdir IMAGES MASKS IMAGE_PATCHES IMAGE_PATCHES_AUGUMENTED
+mkdir IMAGES MASKS IMAGE_PATCHES Masks_PATCHES IMAGE_PATCHES_AUGUMENTED
 ```
 Convert json to png masks
 ```
