@@ -1,0 +1,40 @@
+program: Linknet.py
+method: bayes
+metric:
+  goal: maximise
+  name: val_iou_score
+parameters:
+  architecture:
+    values:
+      - Linknet
+    distribution: categorical
+  batch_size:
+    values: [16, 32, 64]
+  optimizer:
+    values:
+      - Adam
+      - rmsprop
+      - sgd
+    distribution: categorical
+  backbone:
+    values:
+      - vgg16
+      - resnet18
+      - resnet34
+      - resnet50
+      - seresnet18
+      - seresnet34
+      - resnext50
+      - resnext101
+      - densenet121
+      - inceptionv3
+      - inceptionresnetv2
+      - efficientnetb0
+      - efficientnetb1
+      - efficientnetb2
+      - efficientnetb3
+    distribution: categorical
+  epoch:
+    max: 30
+    min: 30
+    distribution: int_uniform
