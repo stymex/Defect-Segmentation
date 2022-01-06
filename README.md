@@ -1,4 +1,4 @@
-This project test four major segmentation networks on the BSData dataset.
+This project tests four major segmentation networks on the BSData dataset.
 To setup the project for execution:
 Download the dataset in question
 ```
